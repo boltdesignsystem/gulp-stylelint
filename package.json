@@ -1,6 +1,6 @@
 {
-  "name": "gulp-stylelint",
-  "version": "13.0.0",
+  "name": "@bolt/gulp-stylelint",
+  "version": "0.0.0",
   "description": "Gulp plugin for running Stylelint results through various reporters.",
   "main": "src/index.js",
   "files": [
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/olegskl/gulp-stylelint.git"
+    "url": "https://github.com/boltdesignsystem/gulp-stylelint.git"
   },
   "keywords": [
     "gulpplugin",
